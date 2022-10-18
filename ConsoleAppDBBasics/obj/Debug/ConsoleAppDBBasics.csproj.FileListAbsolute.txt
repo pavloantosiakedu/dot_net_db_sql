@@ -1,0 +1,9 @@
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\bin\Debug\StudentsDB.mdf
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\bin\Debug\StudentsDB_log.ldf
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\bin\Debug\ConsoleAppDBBasics.exe.config
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\bin\Debug\ConsoleAppDBBasics.exe
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\bin\Debug\ConsoleAppDBBasics.pdb
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\obj\Debug\ConsoleAppDBBasics.csprojAssemblyReference.cache
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\obj\Debug\ConsoleAppDBBasics.csproj.CoreCompileInputs.cache
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\obj\Debug\ConsoleAppDBBasics.exe
+C:\Users\antosp\source\repos\ConsoleAppDBBasics\ConsoleAppDBBasics\obj\Debug\ConsoleAppDBBasics.pdb
